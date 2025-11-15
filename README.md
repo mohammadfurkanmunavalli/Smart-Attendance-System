@@ -33,11 +33,8 @@ This system registers student faces, marks attendance with real-time face recogn
 ## 📁 Project Structure
 
 Smart-Attendance-System-Using-ML-Based-Face-Recognition/
-│
 ├── Attendance/ # Generated attendance CSVs
-
 ├── Dataset/ # Stored face images of registered students
-
 ├── Trained_model/ # Encoded face data saved as .pkl
 ├── main.py # Main launcher with GUI
 ├── train_model.py # Encodes faces and trains model
